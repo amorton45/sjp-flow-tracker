@@ -1,0 +1,13 @@
+# Life wrapper (good proxy for Bond assets)
+life:
+  I86I: "Life Conservative Portfolio"
+  I88I: "Life Balanced Portfolio"
+  I90I: "Life Growth Portfolio"
+  I92I: "Life Adventurous Portfolio"
+
+# Pension wrapper
+pension:
+  I86P: "Pension Conservative Portfolio"
+  I88P: "Pension Balanced Portfolio"
+  I90P: "Pension Growth Portfolio"
+  I92P: "Pension Adventurous Portfolio"
